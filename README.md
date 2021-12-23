@@ -18,3 +18,5 @@ Unter Werkzeuge - Seriellen Monitor aufrufen BAUD auf 115200 stellen
   
 GUI - Python zum Testen
 https://pythonbuch.com/gui.html
+
+COM-port reader: https://freeware.the-meiers.org/
