@@ -16,3 +16,5 @@ Programm übertragen (ACHTUNG: Calliiope muss ausgeschaltet sein)
 
 Unter Werkzeuge - Seriellen Monitor aufrufen BAUD auf 115200 stellen
   
+GUI - Python zum Testen
+https://pythonbuch.com/gui.html
