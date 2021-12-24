@@ -1,5 +1,5 @@
 # calliope_nodemcu
-Couple a calliope with a nodemcu via RX/TX seriel interface
+Couple a calliope with a nodemcu via RX/TX seriel interface and integration of an WiFi-Interface to send the data to RASPI (or Digistar)
 
 # Kopplung NodeMCU
 
